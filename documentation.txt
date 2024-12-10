@@ -1,0 +1,12 @@
+Run step
+
+1. run docker compose file
+docker-compose up -d
+
+2. login to  RabbitMQ Management UI http://localhost:15672.
+   use the default credentials:
+   Username: guest
+   Password: guest
+
+
+
